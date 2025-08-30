@@ -247,7 +247,7 @@ export const projects = [
     image: "https://static.jobscan.co/blog/uploads/ats_3.png", // placeholder icon, replace with screenshot
     tags: ["React", "Python", "spaCy", "Sentence Transformers", "Hugging Face", "Flask"],
     github: "https://github.com/ajaykumar11234/Resume_Scorer",
-    webapp: "", // add demo link if hosted
+    webapp: "https://resumescorer.netlify.app/", // add demo link if hosted
   },
   {
     id: 2,
@@ -259,7 +259,7 @@ export const projects = [
     tags: ["Python", "LLM", "OpenCV", "Flask", "MERN"],
     category: "machine learning",
     github: "https://github.com/ajaykumar11234", // update if repo public
-    webapp: "", // add demo link if hosted
+    webapp: "https://workout-fs4z.onrender.com/", // add demo link if hosted
   },
   {
     id: 3,
